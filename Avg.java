@@ -11,6 +11,8 @@ public class Avg {
  float c=in.nextFloat();
  float Avg=(a+b+c)/3;
  System.out.println("total avarage is:  "+Avg);
+ 
+ 
     }
  
-}
+} 
